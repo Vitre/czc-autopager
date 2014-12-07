@@ -1,5 +1,7 @@
 CZC.cz autopager
------------------
+================
+
+CZC.cz autopager userscript
 
 ### Install
 
