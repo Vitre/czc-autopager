@@ -2,7 +2,8 @@ CZC.cz autopager
 -----------------
 
 ### Install
-First you need to install UserScript plugin.
+
+(1) First you need to **install UserScript plugin**.
 
 #### Mozilla (Firefox)
 https://addons.mozilla.org/cs/firefox/addon/greasemonkey/
@@ -10,6 +11,8 @@ https://addons.mozilla.org/cs/firefox/addon/greasemonkey/
 #### Chrome
 https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
-Then open repository link at OpenUserJS.org and click install button.
+(2) Then **open repository link** at OpenUserJS.org:
 
 https://openuserjs.org/scripts/Vitre/CZC.cz_autopager
+
+(3) **Click install button**.
