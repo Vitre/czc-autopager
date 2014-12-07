@@ -14,7 +14,7 @@ $.extend(czc, {
     autopager: {
 
         offset: -800,
-        q: '#navigation-container-next .btn show-next',
+        q: '#navigation-container-next .btn.show-next',
 
         init: function() {
             $(window).on('scroll', function(e) {
